@@ -1,10 +1,12 @@
 {
-  "imports":{
-    "single-spa":"https://cdn.jsdelivr.net/npm/single-spa@5.5.1/lib/system/single-spa.min.js",
-    "vue":"https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.min.js",
-    "vue-router":"https://cdn.jsdelivr.net/npm/vue-router@3.1.6/dist/vue-router.min.js",
-    "@pfs/navbar":"http://localhost:7400/libs/@pfs/navbar/static/js/navbar.js",
-    "@pfs/root-config":"http://localhost:7400/main.js"
-  },
-  "scopes":{}
+  "data": {
+    "imports":{
+      "single-spa":"https://cdn.jsdelivr.net/npm/single-spa@5.5.1/lib/system/single-spa.min.js",
+      "vue":"https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.min.js",
+      "vue-router":"https://cdn.jsdelivr.net/npm/vue-router@3.1.6/dist/vue-router.min.js",
+      "@pfs/navbar":"http://localhost:7400/libs/@pfs/navbar/static/js/navbar.js",
+      "@pfs/root-config":"http://localhost:7400/main.js"
+    },
+    "scopes":{}
+  }
 }
