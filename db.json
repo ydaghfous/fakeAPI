@@ -5,15 +5,5 @@
       "@pfs/navbar":"http://localhost:7400/libs/@pfs/navbar/static/js/navbar.js"
     },
     "scopes":{},
-  },
-  "config": [
-    {
-      "name": "@polyglot-mf/clients",
-      "route": "/clients"
-    },
-    {
-      "name": "@pfs/navbar",
-      "route": "/"
-    }
-  ]
+  }
 }
