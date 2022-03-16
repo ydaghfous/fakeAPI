@@ -1,8 +1,13 @@
 {
   "data": {
     "imports":{
+      "@polyglot-mf/clients": "https://polyglot.microfrontends.app/clients/ac459b109ef8bcbc75777279223347ff7b3b55e9/js/app.js",
       "@pfs/navbar":"http://localhost:7400/libs/@pfs/navbar/static/js/navbar.js"
     },
-    "scopes":{}
+    "scopes":{},
+  },
+  "routes": {
+    "@polyglot-mf/clients": "/clients",
+    "@pfs/navbar": "/"
   }
 }
