@@ -6,7 +6,7 @@
     },
     "scopes":{},
   },
-  "routes": {
+  "config": {
     "@polyglot-mf/clients": "/clients",
     "@pfs/navbar": "/"
   }
