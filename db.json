@@ -12,7 +12,7 @@
       "route": "/clients"
     },
     {
-      "name": "@polyglot-mf/clients",
+      "name": "@pfs/navbar",
       "route": "/"
     }
   ]
