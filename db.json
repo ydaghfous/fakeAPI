@@ -10,27 +10,16 @@
             "name": "@pfs/navbar"
           }
         ]
-      },
-      {
-        "type": "route", 
-        "path": "/test", 
-        "routes": [
-          { 
-            "type": "application", 
-            "name": "@polyglot-mf/clients" 
-          }
-        ]
       }
     ]
   },
   "resources": {
     "imports": {
-      "@pfs/navbar":"http://localhost:7400/libs/@pfs/navbar/static/js/navbar.js",
-      "@polyglot-mf/clients": "https://polyglot.microfrontends.app/clients/ac459b109ef8bcbc75777279223347ff7b3b55e9/js/app.js"
+      "@pfs/navbar":"/pfs-dev-yda/libs/@pfs/navbar/static/js/navbar.js"
     },
     "scopes": {}
   },
   "profile": {
-    "name": "blabla2"
+    "name": "blabla3"
   }
 }
