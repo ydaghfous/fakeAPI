@@ -1,9 +1,27 @@
 {
-  "configuration": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+  "config": [
+    "routes": [
+      {
+        "type": "route",
+        "path": "/",
+        "routes": [
+          {
+            "type": "application",
+            "name": "@pfs/navbar"
+          }
+        ]
+      },
+      {
+        "type": "route", 
+        "path": "/test", 
+        "routes": [
+          { 
+            "type": "application", 
+            "name": "@polyglot-mf/clients" 
+          }
+        ]
+      }
+    ]
   ],
   "profile": {
     "name": "typicode"
