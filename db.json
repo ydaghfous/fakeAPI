@@ -1,24 +1,11 @@
 {
-  "routes": [
+  "posts": [
     {
-      "type": "route",
-      "path": "/",
-      "routes": [
-        {
-          "type": "application",
-          "name": "@pfs/navbar"
-        }
-      ]
-    },
-    {
-      "type": "route", 
-      "path": "/test", 
-      "routes": [
-        { 
-          "type": "application", 
-          "name": "@polyglot-mf/clients" 
-        }
-      ]
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
