@@ -15,7 +15,7 @@
   },
   "resources": {
     "imports": {
-      "@pfs/navbar":"/pfs-dev-yda/libs/@pfs/navbar/static/js/navbar.js"
+      "@pfs/navbar":"http://172.29.71.110/pfs-dev-yda/libs/@pfs/navbar/static/js/navbar.js"
     },
     "scopes": {}
   },
