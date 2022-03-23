@@ -1,5 +1,5 @@
 {
-  "config": [
+  "config": {
     "routes": [
       {
         "type": "route",
@@ -22,7 +22,7 @@
         ]
       }
     ]
-  ],
+  },
   "profile": {
     "name": "typicode"
   }
