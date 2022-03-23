@@ -1,8 +1,11 @@
 {
-  "data": {
-    "imports":{
-      "@pfs/navbar":"http://localhost:7400/libs/@pfs/navbar/static/js/navbar.js"
-    },
-    "scopes":{},
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
