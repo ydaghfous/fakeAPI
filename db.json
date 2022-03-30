@@ -14,12 +14,8 @@
     ]
   },
   "resources": {
-    "imports": {
-      "@pfs/navbar":"http://172.29.71.110/pfs-dev-yda/libs/@pfs/navbar/static/js/navbar.js"
-    },
+    "imports": {},
     "scopes": {}
-  },
-  "profile": {
-    "name": "blabla3"
+  }"name": "blabla3"
   }
 }
