@@ -10,6 +10,26 @@
             "name": "@pfs/navbar"
           }
         ]
+      },
+      {
+        "type": "route",
+        "path": "/appmanager",
+        "routes": [
+          {
+            "type": "application",
+            "name": "@pfs/appmanager"
+          }
+        ]
+      },
+      {
+        "type": "route",
+        "path": "/users",
+        "routes": [
+          {
+            "type": "application",
+            "name": "@pfs/users"
+          }
+        ]
       }
     ]
   },
