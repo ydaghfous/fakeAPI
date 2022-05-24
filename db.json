@@ -13,7 +13,7 @@
       },
       {
         "type": "route",
-        "path": "/appmanager",
+        "path": "/am",
         "routes": [
           {
             "type": "application",
@@ -23,7 +23,7 @@
       },
       {
         "type": "route",
-        "path": "/users",
+        "path": "/um",
         "routes": [
           {
             "type": "application",
