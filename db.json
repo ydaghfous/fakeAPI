@@ -3,7 +3,7 @@
     "routes": [
       {
         "type": "route",
-        "path": "/yda-pfs-charts/",
+        "path": "/yda-pfs-charts-2/",
         "routes": [
           {
             "type": "application",
@@ -13,7 +13,7 @@
       },
       {
         "type": "route",
-        "path": "/yda-pfs-charts/app-manager",
+        "path": "/yda-pfs-charts-2/app-manager",
         "routes": [
           {
             "type": "application",
@@ -23,7 +23,7 @@
       },
       {
         "type": "route",
-        "path": "/yda-pfs-charts/user-management",
+        "path": "/yda-pfs-charts-2/user-management",
         "routes": [
           {
             "type": "application",
