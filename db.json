@@ -30,6 +30,16 @@
             "name": "@pfs/users"
           }
         ]
+      },
+       {
+        "type": "route",
+        "path": "/RELEASE_NAME/titan-live",
+        "routes": [
+          {
+            "type": "application",
+            "name": "@pfs/titan-live"
+          }
+        ]
       }
     ]
   },
