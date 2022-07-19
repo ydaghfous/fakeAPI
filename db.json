@@ -3,7 +3,7 @@
     "routes": [
       {
         "type": "route",
-        "path": "/RELEASE_NAME/",
+        "path": "/pfs-portal/yda-pfs-2860/",
         "routes": [
           {
             "type": "application",
@@ -13,7 +13,7 @@
       },
       {
         "type": "route",
-        "path": "/RELEASE_NAME/app-manager",
+        "path": "/pfs-portal/yda-pfs-2860/application-manager",
         "routes": [
           {
             "type": "application",
@@ -23,7 +23,7 @@
       },
       {
         "type": "route",
-        "path": "/RELEASE_NAME/user-management",
+        "path": "/pfs-portal/yda-pfs-2860/user-management",
         "routes": [
           {
             "type": "application",
@@ -33,7 +33,7 @@
       },
        {
         "type": "route",
-        "path": "/RELEASE_NAME/titan-live",
+        "path": "/pfs-portal/yda-pfs-tlcn/titan-live",
         "routes": [
           {
             "type": "application",
