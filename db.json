@@ -51,15 +51,7 @@
     "namespace": "yda-pfs-2860", 
     "applications": [
       {
-        "name": "pfs-charts-0.1.0", 
-        "release_name": "yda-pfs-2860", 
-        "version": "", 
-        "status": "deployed", 
-        "application_k8s_state": "ready",
-        "path": "pfs-portal/yda-pfs-2860/amapi"
-      }, 
-      {
-        "name": "titanlive-0.0.0-continuous", 
+        "name": "titan-live", 
         "release_name": "yda-pfs-tlcn", 
         "version": "", 
         "status": "deployed", 
