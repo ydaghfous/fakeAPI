@@ -64,7 +64,7 @@
         "version": "", 
         "status": "deployed", 
         "application_k8s_state": "not-ready",
-        "path": "pfs-portal/yda-pfs-2860/amapi"
+        "path": "pfs-portal/yda-pfs-tlcn/titanlive-0.0.0-continuous"
       }
     ]
   }
