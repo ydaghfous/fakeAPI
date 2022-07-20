@@ -51,7 +51,7 @@
     "namespace": "yda-pfs-2860", 
     "applications": [
       {
-        "name": "titan-live", 
+        "name": "@pfs/titan-live", 
         "release_name": "yda-pfs-tlcn", 
         "version": "", 
         "status": "deployed", 
