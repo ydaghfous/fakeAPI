@@ -3,7 +3,7 @@
     "routes": [
       {
         "type": "route",
-        "path": "/pfs-portal/yda-pfs-2860/",
+        "path": "/pfs-portal/",
         "routes": [
           {
             "type": "application",
