@@ -13,7 +13,7 @@
       },
       {
         "type": "route",
-        "path": "/pfs-portal/yda-pfs-2860/application-manager",
+        "path": "/pfs-portal/application-manager",
         "routes": [
           {
             "type": "application",
@@ -23,7 +23,7 @@
       },
       {
         "type": "route",
-        "path": "/pfs-portal/yda-pfs-2860/user-management",
+        "path": "/pfs-portal/user-management",
         "routes": [
           {
             "type": "application",
