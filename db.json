@@ -37,7 +37,7 @@
         "routes": [
           {
             "type": "application",
-            "name": "@pfs/titan-live"
+            "name": "@pfs/titanlive-0.0.0-continuous"
           }
         ]
       }
