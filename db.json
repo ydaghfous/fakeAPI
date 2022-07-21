@@ -33,7 +33,7 @@
       },
        {
         "type": "route",
-        "path": "/pfs-portal/yda-pfs-tlcn/titan-live",
+        "path": "/pfs-portal/yda-pfs-tlcn",
         "routes": [
           {
             "type": "application",
